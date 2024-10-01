@@ -7,8 +7,8 @@ public class MainProgram {
         int laptops = 10;
         int days = 5;
         int days2 = 7;
-        double priceSmartphone = 243.068;
-        double priceLaptop = 149.812;
+        double priceSmartphone = 243.0682;
+        double priceLaptop = 149.8122;
 
         double sumForOneDayS = smartphones * priceSmartphone;
         double sumForFiveDays = sumForOneDayS * days;
